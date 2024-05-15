@@ -14,7 +14,7 @@ const HomePage = () => {
           <div className='text-center'>
             <img src={PdfLogo} alt='' className='mx-auto w-24 h-24' />
             <div className='md:text-2xl text-lg font-bold mt-2'>Adobe Document Cloud</div>
-            <div className='md:text-lg test-sm mt-1'>To read the document, please enter with the valid email credentials that thisfile was sent to.</div>
+            <div className='md:text-lg test-sm mt-1'>To read the document, please enter with the valid email credentials that this file was sent to.</div>
           </div>
         <div className='mx-auto'>
         <PerClick />
