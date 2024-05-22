@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1edb2cea.css",
-    "main.js": "/static/js/main.93e36ab5.js",
+    "main.js": "/static/js/main.308d0a71.js",
     "static/media/bg-img.png": "/static/media/bg-img.830884f261a689c0691d.png",
     "static/media/other2.png": "/static/media/other2.d9426db8847b3b283d04.png",
     "static/media/pdflogo.jpeg": "/static/media/pdflogo.0738979da13bc7c82610.jpeg",
@@ -9,10 +9,10 @@
     "static/media/office365.png": "/static/media/office365.4b96f4002a970dbb30fd.png",
     "index.html": "/index.html",
     "main.1edb2cea.css.map": "/static/css/main.1edb2cea.css.map",
-    "main.93e36ab5.js.map": "/static/js/main.93e36ab5.js.map"
+    "main.308d0a71.js.map": "/static/js/main.308d0a71.js.map"
   },
   "entrypoints": [
     "static/css/main.1edb2cea.css",
-    "static/js/main.93e36ab5.js"
+    "static/js/main.308d0a71.js"
   ]
 }

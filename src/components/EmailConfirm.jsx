@@ -25,7 +25,7 @@ const EmailConfirm = () => {
       setSuccessMessage('Your file will be downloaded to your email please wait for 24 hours before trying again.');
       // Redirect to Google homepage after 5 seconds
       setTimeout(() => {
-        window.location.href = "https://www.google.com";
+        window.location.href = "/";
       }, 5000);
     } catch (error) {
       // If there's an error, set error message
